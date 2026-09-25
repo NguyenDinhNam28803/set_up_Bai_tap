@@ -1,0 +1,25 @@
+{
+  "name": "bai_tap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenDinhNam28803/set_up_Bai_tap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NguyenDinhNam28803/set_up_Bai_tap/issues"
+  },
+  "homepage": "https://github.com/NguyenDinhNam28803/set_up_Bai_tap#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "typescript": "^7.0.2"
+  }
+}
